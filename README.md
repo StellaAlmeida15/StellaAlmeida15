@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Atualmente construindo interfaces, e entendendo APIs<br>🎯 Futuramente vou aprofundar em Java, Python, C++, AWS, C#, Assembly e Cibersegurança.</p>
+<p align="left">📚 Atualmente construindo UIs, e entendendo APIs<br>🎯 Futuramente vou aprofundar em Java, Python, C++, AWS, C#, Assembly e Cibersegurança.</p>
 
 ###
 
